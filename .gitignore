@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Excel / dados
+*.xlsx
+*.pbix
+
+# VSCode
+.vscode/settings.json
+
+.env
